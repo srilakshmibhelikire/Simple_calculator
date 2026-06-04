@@ -26,3 +26,12 @@ A beginner-friendly Python project that performs basic arithmetic operations usi
 
 ```bash
 python calculator.py
+
+👩‍💻Author
+
+Bhelikire Srilakshmi 
+
+
+🎓 Internship 
+
+Kodbud Python Programming Internship💻
